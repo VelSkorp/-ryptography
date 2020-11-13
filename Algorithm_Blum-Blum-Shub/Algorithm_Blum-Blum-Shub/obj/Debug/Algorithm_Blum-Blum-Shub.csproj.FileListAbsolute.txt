@@ -1,0 +1,7 @@
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\bin\Debug\Algorithm_Blum—Blum—Shub.exe.config
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\bin\Debug\Algorithm_Blum—Blum—Shub.exe
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\bin\Debug\Algorithm_Blum—Blum—Shub.pdb
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\obj\Debug\Algorithm_Blum-Blum-Shub.csprojAssemblyReference.cache
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\obj\Debug\Algorithm_Blum-Blum-Shub.csproj.CoreCompileInputs.cache
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\obj\Debug\Algorithm_Blum—Blum—Shub.exe
+C:\Users\konts\source\repos\Сryptography\Algorithm_Blum-Blum-Shub\Algorithm_Blum-Blum-Shub\obj\Debug\Algorithm_Blum—Blum—Shub.pdb
