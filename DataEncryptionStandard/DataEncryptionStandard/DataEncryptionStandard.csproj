@@ -63,7 +63,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Controls\ExtendedTreeView.cs" />
+    <Compile Include="Model\DesTables.cs" />
     <Compile Include="Model\DES.cs" />
+    <Compile Include="ValueConverters\StringToBinaryStringValueConverter.cs" />
     <Compile Include="ViewModels\WindowViewModel.cs" />
     <Page Include="Pages\MainPage.xaml">
       <SubType>Designer</SubType>

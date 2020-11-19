@@ -33,11 +33,6 @@
 				   Grid.Column="2"
 				   HorizontalAlignment="Center"/>
 
-		<TextBlock Text="{Binding SelectedTextInputItem.FileSystemInfo.FullName}" 
-				   Grid.ColumnSpan="2"
-				   Grid.Row="2"
-				   VerticalAlignment="Bottom" />
-
 		<!-- TreeView to select a file containing text -->
 		<local:ExtendedTreeView ItemsSource="{Binding ItemsTextInput}" 
 								Grid.Row="1"
