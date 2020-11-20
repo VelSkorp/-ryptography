@@ -65,7 +65,7 @@ namespace GOST_28147_89
             string key = reader.ReadToEnd();
             reader.Close();
 
-            var gOST_28147_89 = new GOST_28147_89(text, key);
+            var gOST_28147_89 = new GOST_28147_89Algorithm(text, key);
             text = gOST_28147_89.Encrypt();
             MessageBox.Show(text);
 
@@ -87,7 +87,7 @@ namespace GOST_28147_89
             string key = reader.ReadToEnd();
             reader.Close();
 
-            var gOST_28147_89 = new GOST_28147_89(text, key);
+            var gOST_28147_89 = new GOST_28147_89Algorithm(text, key);
             text = gOST_28147_89.Decrypt();
             MessageBox.Show(text);
 
