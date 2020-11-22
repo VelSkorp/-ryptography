@@ -1,0 +1,7 @@
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\konts\source\repos\Сryptography\RSA\RSA\obj\Debug\RSA.pdb
