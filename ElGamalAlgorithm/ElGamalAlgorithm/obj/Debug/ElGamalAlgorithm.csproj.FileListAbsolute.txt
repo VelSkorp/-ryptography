@@ -1,0 +1,7 @@
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\ElGamalAlgorithm.exe.config
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\ElGamalAlgorithm.exe
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\bin\Debug\ElGamalAlgorithm.pdb
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\ElGamalAlgorithm.csprojAssemblyReference.cache
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\ElGamalAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\ElGamalAlgorithm.exe
+C:\Users\konts\source\repos\ElGamalAlgorithm\ElGamalAlgorithm\obj\Debug\ElGamalAlgorithm.pdb
