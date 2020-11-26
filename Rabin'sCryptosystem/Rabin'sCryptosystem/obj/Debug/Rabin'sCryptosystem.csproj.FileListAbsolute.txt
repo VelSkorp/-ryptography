@@ -1,0 +1,7 @@
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\bin\Debug\Rabin'sCryptosystem.exe.config
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\bin\Debug\Rabin'sCryptosystem.exe
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\bin\Debug\Rabin'sCryptosystem.pdb
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\obj\Debug\Rabin'sCryptosystem.csprojAssemblyReference.cache
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\obj\Debug\Rabin'sCryptosystem.csproj.CoreCompileInputs.cache
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\obj\Debug\Rabin'sCryptosystem.exe
+C:\Users\konts\source\repos\Сryptography\Rabin'sCryptosystem\Rabin'sCryptosystem\obj\Debug\Rabin'sCryptosystem.pdb
